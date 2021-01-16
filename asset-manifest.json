@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/DeMarcoHeath/detect_objects/static/css/main.523f09c5.chunk.css",
+    "main.js": "/DeMarcoHeath/detect_objects/static/js/main.03475df5.chunk.js",
+    "main.js.map": "/DeMarcoHeath/detect_objects/static/js/main.03475df5.chunk.js.map",
+    "runtime-main.js": "/DeMarcoHeath/detect_objects/static/js/runtime-main.74d53196.js",
+    "runtime-main.js.map": "/DeMarcoHeath/detect_objects/static/js/runtime-main.74d53196.js.map",
+    "static/js/2.41aaaa6e.chunk.js": "/DeMarcoHeath/detect_objects/static/js/2.41aaaa6e.chunk.js",
+    "static/js/2.41aaaa6e.chunk.js.map": "/DeMarcoHeath/detect_objects/static/js/2.41aaaa6e.chunk.js.map",
+    "index.html": "/DeMarcoHeath/detect_objects/index.html",
+    "precache-manifest.149d69992a5ec601266e52d655519b2b.js": "/DeMarcoHeath/detect_objects/precache-manifest.149d69992a5ec601266e52d655519b2b.js",
+    "service-worker.js": "/DeMarcoHeath/detect_objects/service-worker.js",
+    "static/css/main.523f09c5.chunk.css.map": "/DeMarcoHeath/detect_objects/static/css/main.523f09c5.chunk.css.map",
+    "static/js/2.41aaaa6e.chunk.js.LICENSE.txt": "/DeMarcoHeath/detect_objects/static/js/2.41aaaa6e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.74d53196.js",
+    "static/js/2.41aaaa6e.chunk.js",
+    "static/css/main.523f09c5.chunk.css",
+    "static/js/main.03475df5.chunk.js"
+  ]
+}
